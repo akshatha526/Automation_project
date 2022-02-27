@@ -1,5 +1,5 @@
 #Variables
-name="tayyab"
+name="Akshatha"
 s3_bucket="upgrad-akshatha"
 # update the ubuntu repositories
 apt update -y
